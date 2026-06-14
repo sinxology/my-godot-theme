@@ -1,2 +1,4 @@
-# my-godot-theme
-Sinx's Godot Theme :)
+# My Godot Theme :)
+
+### Base Color - `#18181C`
+### Accent Color - `#00D9C0`
